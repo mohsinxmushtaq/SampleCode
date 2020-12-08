@@ -1,0 +1,30 @@
+﻿@model LabelTool.ReceiptScanner.ViewModels.CreateLabelProjectViewModel
+
+    <form asp-action="Post" method="post">
+        <div class="form-group" asp-validation-class-for="DisplayName">
+            <label asp-for="DisplayName">@T["Display Name"]</label>
+            <input asp-for="DisplayName" class="form-control" autofocus />
+            <span asp-validation-for="DisplayName"></span>
+        </div>
+
+        <div class="form-group" asp-validation-class-for="AzureConnection">
+            <label asp-for="AzureConnection">@T["Azure Connection"]</label>
+            <input asp-for="AzureConnection" class="form-control" autofocus />
+            <span asp-validation-for="AzureConnection"></span>
+        </div>
+
+        <div class="form-group" asp-validation-class-for="FolderPath">
+            <label asp-for="FolderPath">@T["Folder Path"]</label>
+            <input asp-for="FolderPath" class="form-control" autofocus />
+            <span asp-validation-for="FolderPath"></span>
+        </div>
+
+        <div class="form-group">
+            <button class="btn btn-primary create" type="submit">@T["Create"]</button>
+            <a class="btn btn-secondary cancel" role="button" asp-route-action="Index">@T["Cancel"]</a>
+        </div>
+        <div id="app"></div>
+    </form>
+
+<script asp-name="MainEditorJs" at="Foot" ></script>
+

@@ -1,0 +1,1478 @@
+{
+  "ResultData": {
+    "status": "succeeded",
+    "createdDateTime": "2020-11-03T17:20:41Z",
+    "lastUpdatedDateTime": "2020-11-03T17:20:45Z",
+    "analyzeResult": {
+      "version": "2.1.0",
+      "readResults": [
+        {
+          "page": 1,
+          "angle": -0.5508,
+          "width": 1102,
+          "height": 3516,
+          "unit": "pixel",
+          "lines": [
+            {
+              "boundingBox": [ 114, 224, 593, 203, 596, 339, 119, 349 ],
+              "text": "Cu.Cu .",
+              "words": [
+                {
+                  "boundingBox": [ 167, 232, 521, 209, 523, 343, 172, 349 ],
+                  "text": "Cu.Cu",
+                  "confidence": 0.839
+                },
+                {
+                  "boundingBox": [ 543, 207, 588, 204, 591, 342, 546, 343 ],
+                  "text": ".",
+                  "confidence": 0.69
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 57, 404, 960, 356, 963, 403, 58, 452 ],
+              "text": "Lulu Hypermarket LLC, Al Qusais, Dubai",
+              "words": [
+                {
+                  "boundingBox": [ 57, 404, 158, 399, 159, 447, 59, 452 ],
+                  "text": "Lulu",
+                  "confidence": 0.924
+                },
+                {
+                  "boundingBox": [ 167, 399, 443, 385, 445, 432, 169, 447 ],
+                  "text": "Hypermarket",
+                  "confidence": 0.939
+                },
+                {
+                  "boundingBox": [ 453, 385, 562, 379, 564, 426, 454, 432 ],
+                  "text": "LLC,",
+                  "confidence": 0.902
+                },
+                {
+                  "boundingBox": [ 572, 379, 631, 375, 633, 422, 573, 425 ],
+                  "text": "Al",
+                  "confidence": 0.853
+                },
+                {
+                  "boundingBox": [ 641, 375, 823, 365, 824, 411, 643, 421 ],
+                  "text": "Qusais,",
+                  "confidence": 0.638
+                },
+                {
+                  "boundingBox": [ 832, 364, 960, 357, 962, 402, 834, 410 ],
+                  "text": "Dubai",
+                  "confidence": 0.951
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 292, 444, 676, 425, 678, 466, 295, 485 ],
+              "text": "TEL - 04 2988880",
+              "words": [
+                {
+                  "boundingBox": [ 293, 445, 374, 441, 377, 482, 295, 486 ],
+                  "text": "TEL",
+                  "confidence": 0.981
+                },
+                {
+                  "boundingBox": [ 382, 440, 420, 438, 423, 480, 385, 482 ],
+                  "text": "-",
+                  "confidence": 0.987
+                },
+                {
+                  "boundingBox": [ 428, 438, 493, 435, 496, 476, 431, 480 ],
+                  "text": "04",
+                  "confidence": 0.985
+                },
+                {
+                  "boundingBox": [ 501, 434, 675, 425, 677, 467, 504, 476 ],
+                  "text": "2988880",
+                  "confidence": 0.981
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 246, 551, 724, 519, 727, 563, 249, 597 ],
+              "text": "TRN: 100228723100003",
+              "words": [
+                {
+                  "boundingBox": [ 246, 552, 353, 544, 356, 591, 249, 598 ],
+                  "text": "TRN:",
+                  "confidence": 0.981
+                },
+                {
+                  "boundingBox": [ 362, 543, 724, 519, 726, 564, 365, 590 ],
+                  "text": "100228723100003",
+                  "confidence": 0.965
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 364, 647, 965, 617, 969, 664, 367, 703 ],
+              "text": "TAX INVOICE &++.yo auguLa",
+              "words": [
+                {
+                  "boundingBox": [ 365, 648, 439, 645, 441, 697, 367, 703 ],
+                  "text": "TAX",
+                  "confidence": 0.987
+                },
+                {
+                  "boundingBox": [ 450, 644, 637, 635, 639, 681, 452, 696 ],
+                  "text": "INVOICE",
+                  "confidence": 0.978
+                },
+                {
+                  "boundingBox": [ 648, 635, 802, 627, 805, 668, 651, 680 ],
+                  "text": "&++.yo",
+                  "confidence": 0.563
+                },
+                {
+                  "boundingBox": [ 813, 626, 964, 618, 967, 658, 816, 667 ],
+                  "text": "auguLa",
+                  "confidence": 0.577
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 37, 769, 344, 762, 345, 807, 38, 813 ],
+              "text": "9905519002006",
+              "words": [
+                {
+                  "boundingBox": [ 38, 771, 345, 762, 345, 808, 40, 813 ],
+                  "text": "9905519002006",
+                  "confidence": 0.969
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 933, 726, 982, 728, 980, 773, 931, 773 ],
+              "text": "S2",
+              "words": [
+                {
+                  "boundingBox": [ 931, 726, 981, 727, 980, 774, 931, 773 ],
+                  "text": "S2",
+                  "confidence": 0.974
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 11, 873, 483, 864, 484, 908, 11, 915 ],
+              "text": "Herbs And Leaves 1pc",
+              "words": [
+                {
+                  "boundingBox": [ 12, 874, 142, 873, 142, 915, 12, 915 ],
+                  "text": "Herbs",
+                  "confidence": 0.983
+                },
+                {
+                  "boundingBox": [ 150, 873, 237, 871, 237, 914, 150, 915 ],
+                  "text": "And",
+                  "confidence": 0.987
+                },
+                {
+                  "boundingBox": [ 245, 871, 402, 867, 403, 910, 245, 914 ],
+                  "text": "Leaves",
+                  "confidence": 0.985
+                },
+                {
+                  "boundingBox": [ 413, 867, 484, 864, 484, 907, 414, 910 ],
+                  "text": "1pc",
+                  "confidence": 0.83
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 882, 839, 983, 838, 982, 880, 882, 882 ],
+              "text": "2.00",
+              "words": [
+                {
+                  "boundingBox": [ 882, 839, 982, 838, 982, 880, 882, 882 ],
+                  "text": "2.00",
+                  "confidence": 0.963
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 36, 922, 347, 919, 348, 962, 37, 965 ],
+              "text": "9905519002006",
+              "words": [
+                {
+                  "boundingBox": [ 37, 924, 348, 919, 347, 963, 38, 965 ],
+                  "text": "9905519002006",
+                  "confidence": 0.969
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 456, 917, 484, 920, 482, 948, 455, 945 ],
+              "text": "1",
+              "words": [
+                {
+                  "boundingBox": [ 465, 918, 484, 920, 481, 948, 462, 946 ],
+                  "text": "1",
+                  "confidence": 0.985
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 929, 892, 984, 892, 982, 934, 930, 935 ],
+              "text": "S2",
+              "words": [
+                {
+                  "boundingBox": [ 929, 892, 983, 892, 983, 934, 929, 935 ],
+                  "text": "S2",
+                  "confidence": 0.96
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 11, 1025, 485, 1017, 486, 1062, 12, 1069 ],
+              "text": "Herbs And Leaves 1pc",
+              "words": [
+                {
+                  "boundingBox": [ 12, 1027, 142, 1024, 143, 1068, 13, 1069 ],
+                  "text": "Herbs",
+                  "confidence": 0.981
+                },
+                {
+                  "boundingBox": [ 150, 1024, 236, 1022, 237, 1067, 151, 1068 ],
+                  "text": "And",
+                  "confidence": 0.987
+                },
+                {
+                  "boundingBox": [ 244, 1022, 402, 1019, 403, 1065, 245, 1067 ],
+                  "text": "Leaves",
+                  "confidence": 0.984
+                },
+                {
+                  "boundingBox": [ 413, 1019, 485, 1018, 486, 1063, 414, 1064 ],
+                  "text": "1pc",
+                  "confidence": 0.939
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 886, 994, 986, 991, 987, 1043, 887, 1046 ],
+              "text": "2.00",
+              "words": [
+                {
+                  "boundingBox": [ 886, 994, 982, 991, 984, 1043, 887, 1046 ],
+                  "text": "2.00",
+                  "confidence": 0.951
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 34, 1075, 346, 1070, 347, 1114, 35, 1120 ],
+              "text": "2773362005706",
+              "words": [
+                {
+                  "boundingBox": [ 35, 1076, 345, 1070, 343, 1116, 35, 1121 ],
+                  "text": "2773362005706",
+                  "confidence": 0.97
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 928, 1051, 982, 1050, 982, 1092, 927, 1093 ],
+              "text": "S2",
+              "words": [
+                {
+                  "boundingBox": [ 927, 1051, 979, 1050, 980, 1092, 927, 1093 ],
+                  "text": "S2",
+                  "confidence": 0.986
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 14, 1179, 574, 1169, 575, 1212, 15, 1224 ],
+              "text": "Lulu Italian Beef Salami",
+              "words": [
+                {
+                  "boundingBox": [ 14, 1183, 119, 1179, 121, 1222, 17, 1224 ],
+                  "text": "Lulu",
+                  "confidence": 0.978
+                },
+                {
+                  "boundingBox": [ 132, 1179, 306, 1174, 307, 1219, 134, 1222 ],
+                  "text": "Italian",
+                  "confidence": 0.982
+                },
+                {
+                  "boundingBox": [ 314, 1174, 424, 1171, 424, 1216, 315, 1218 ],
+                  "text": "Beef",
+                  "confidence": 0.984
+                },
+                {
+                  "boundingBox": [ 432, 1171, 573, 1170, 573, 1214, 432, 1216 ],
+                  "text": "Salami",
+                  "confidence": 0.952
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 882, 1155, 981, 1154, 981, 1197, 883, 1198 ],
+              "text": "5.70",
+              "words": [
+                {
+                  "boundingBox": [ 882, 1155, 979, 1154, 979, 1197, 882, 1198 ],
+                  "text": "5.70",
+                  "confidence": 0.86
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 31, 1230, 344, 1222, 345, 1268, 33, 1275 ],
+              "text": "2777065011002",
+              "words": [
+                {
+                  "boundingBox": [ 35, 1232, 344, 1223, 344, 1269, 36, 1275 ],
+                  "text": "2777065011002",
+                  "confidence": 0.97
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 457, 1227, 486, 1231, 484, 1260, 455, 1256 ],
+              "text": "1",
+              "words": [
+                {
+                  "boundingBox": [ 467, 1228, 487, 1231, 484, 1260, 463, 1257 ],
+                  "text": "1",
+                  "confidence": 0.985
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 927, 1209, 983, 1209, 980, 1249, 927, 1250 ],
+              "text": "S2",
+              "words": [
+                {
+                  "boundingBox": [ 927, 1209, 981, 1209, 982, 1249, 927, 1250 ],
+                  "text": "S2",
+                  "confidence": 0.981
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 13, 1334, 628, 1322, 629, 1365, 14, 1378 ],
+              "text": "Danish Shredded Mozzarella",
+              "words": [
+                {
+                  "boundingBox": [ 14, 1335, 164, 1332, 166, 1375, 15, 1379 ],
+                  "text": "Danish",
+                  "confidence": 0.984
+                },
+                {
+                  "boundingBox": [ 173, 1331, 372, 1327, 372, 1371, 174, 1375 ],
+                  "text": "Shredded",
+                  "confidence": 0.975
+                },
+                {
+                  "boundingBox": [ 380, 1327, 628, 1322, 627, 1366, 381, 1371 ],
+                  "text": "Mozzarella",
+                  "confidence": 0.944
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 862, 1315, 979, 1312, 978, 1353, 863, 1356 ],
+              "text": "11.00",
+              "words": [
+                {
+                  "boundingBox": [ 862, 1315, 977, 1312, 978, 1353, 863, 1356 ],
+                  "text": "11.00",
+                  "confidence": 0.721
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 37, 1385, 344, 1376, 345, 1419, 38, 1428 ],
+              "text": "6281007303989",
+              "words": [
+                {
+                  "boundingBox": [ 37, 1386, 345, 1377, 345, 1421, 40, 1428 ],
+                  "text": "6281007303989",
+                  "confidence": 0.97
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 462, 1379, 533, 1379, 534, 1417, 461, 1415 ],
+              "text": "1 ×",
+              "words": [
+                {
+                  "boundingBox": [ 461, 1379, 496, 1379, 496, 1416, 461, 1416 ],
+                  "text": "1",
+                  "confidence": 0.986
+                },
+                {
+                  "boundingBox": [ 504, 1379, 532, 1379, 531, 1417, 504, 1417 ],
+                  "text": "×",
+                  "confidence": 0.638
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 720, 1369, 839, 1367, 839, 1411, 722, 1413 ],
+              "text": "17.75",
+              "words": [
+                {
+                  "boundingBox": [ 720, 1369, 837, 1367, 837, 1411, 720, 1413 ],
+                  "text": "17.75",
+                  "confidence": 0.985
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 926, 1366, 980, 1366, 977, 1405, 926, 1407 ],
+              "text": "S2",
+              "words": [
+                {
+                  "boundingBox": [ 926, 1366, 977, 1366, 978, 1406, 926, 1407 ],
+                  "text": "S2",
+                  "confidence": 0.983
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 15, 1486, 676, 1478, 677, 1519, 16, 1531 ],
+              "text": "Almarai Cheddar Cheese 454gm",
+              "words": [
+                {
+                  "boundingBox": [ 16, 1489, 187, 1484, 187, 1529, 16, 1531 ],
+                  "text": "Almarai",
+                  "confidence": 0.939
+                },
+                {
+                  "boundingBox": [ 196, 1484, 375, 1480, 375, 1525, 196, 1529 ],
+                  "text": "Cheddar",
+                  "confidence": 0.957
+                },
+                {
+                  "boundingBox": [ 384, 1480, 542, 1479, 541, 1522, 383, 1525 ],
+                  "text": "Cheese",
+                  "confidence": 0.983
+                },
+                {
+                  "boundingBox": [ 550, 1479, 677, 1478, 676, 1519, 549, 1522 ],
+                  "text": "454gm",
+                  "confidence": 0.98
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 864, 1468, 980, 1466, 980, 1510, 865, 1511 ],
+              "text": "17.75",
+              "words": [
+                {
+                  "boundingBox": [ 864, 1467, 978, 1466, 978, 1510, 864, 1511 ],
+                  "text": "17.75",
+                  "confidence": 0.962
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 36, 1538, 347, 1532, 348, 1575, 37, 1581 ],
+              "text": "6281007110808",
+              "words": [
+                {
+                  "boundingBox": [ 37, 1538, 349, 1532, 349, 1575, 39, 1581 ],
+                  "text": "6281007110808",
+                  "confidence": 0.968
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 458, 1531, 533, 1533, 533, 1572, 458, 1571 ],
+              "text": "1 ×",
+              "words": [
+                {
+                  "boundingBox": [ 461, 1531, 498, 1531, 497, 1571, 460, 1571 ],
+                  "text": "1",
+                  "confidence": 0.985
+                },
+                {
+                  "boundingBox": [ 506, 1531, 533, 1532, 532, 1572, 505, 1571 ],
+                  "text": "×",
+                  "confidence": 0.638
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 738, 1524, 839, 1524, 838, 1563, 739, 1565 ],
+              "text": "5.90",
+              "words": [
+                {
+                  "boundingBox": [ 738, 1524, 836, 1524, 836, 1564, 738, 1565 ],
+                  "text": "5.90",
+                  "confidence": 0.952
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 927, 1522, 981, 1521, 980, 1562, 928, 1562 ],
+              "text": "S2",
+              "words": [
+                {
+                  "boundingBox": [ 927, 1521, 979, 1521, 979, 1562, 927, 1562 ],
+                  "text": "S2",
+                  "confidence": 0.982
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 13, 1640, 579, 1633, 579, 1675, 14, 1682 ],
+              "text": "Mara1 Full Fat Laban 11t",
+              "words": [
+                {
+                  "boundingBox": [ 14, 1642, 143, 1639, 143, 1681, 14, 1682 ],
+                  "text": "Mara1",
+                  "confidence": 0.638
+                },
+                {
+                  "boundingBox": [ 151, 1639, 261, 1637, 261, 1680, 151, 1681 ],
+                  "text": "Full",
+                  "confidence": 0.968
+                },
+                {
+                  "boundingBox": [ 269, 1637, 353, 1636, 353, 1679, 269, 1680 ],
+                  "text": "Fat",
+                  "confidence": 0.986
+                },
+                {
+                  "boundingBox": [ 361, 1636, 493, 1634, 493, 1678, 361, 1679 ],
+                  "text": "Laban",
+                  "confidence": 0.983
+                },
+                {
+                  "boundingBox": [ 506, 1634, 577, 1634, 577, 1676, 506, 1677 ],
+                  "text": "11t",
+                  "confidence": 0.719
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 878, 1625, 977, 1624, 977, 1664, 879, 1667 ],
+              "text": "5.90",
+              "words": [
+                {
+                  "boundingBox": [ 878, 1625, 975, 1624, 976, 1665, 878, 1667 ],
+                  "text": "5.90",
+                  "confidence": 0.981
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 38, 1690, 345, 1686, 345, 1729, 39, 1732 ],
+              "text": "6281007063067",
+              "words": [
+                {
+                  "boundingBox": [ 39, 1691, 346, 1687, 345, 1731, 39, 1732 ],
+                  "text": "6281007063067",
+                  "confidence": 0.971
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 459, 1687, 533, 1688, 533, 1728, 458, 1726 ],
+              "text": "1 ×",
+              "words": [
+                {
+                  "boundingBox": [ 461, 1687, 498, 1687, 497, 1727, 460, 1727 ],
+                  "text": "1",
+                  "confidence": 0.984
+                },
+                {
+                  "boundingBox": [ 506, 1687, 533, 1688, 532, 1728, 505, 1727 ],
+                  "text": "×",
+                  "confidence": 0.638
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 735, 1680, 837, 1679, 837, 1719, 736, 1722 ],
+              "text": "5.30",
+              "words": [
+                {
+                  "boundingBox": [ 735, 1680, 835, 1679, 836, 1720, 735, 1722 ],
+                  "text": "5.30",
+                  "confidence": 0.986
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 925, 1677, 979, 1677, 976, 1718, 926, 1719 ],
+              "text": "S2",
+              "words": [
+                {
+                  "boundingBox": [ 925, 1677, 978, 1677, 978, 1718, 925, 1719 ],
+                  "text": "S2",
+                  "confidence": 0.984
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 15, 1789, 722, 1783, 722, 1829, 15, 1833 ],
+              "text": "Marai Fresh yoghurt F/Cream1kg",
+              "words": [
+                {
+                  "boundingBox": [ 15, 1793, 143, 1792, 144, 1833, 15, 1833 ],
+                  "text": "Marai",
+                  "confidence": 0.972
+                },
+                {
+                  "boundingBox": [ 151, 1792, 282, 1790, 282, 1833, 152, 1833 ],
+                  "text": "Fresh",
+                  "confidence": 0.985
+                },
+                {
+                  "boundingBox": [ 293, 1790, 471, 1788, 471, 1833, 293, 1833 ],
+                  "text": "yoghurt",
+                  "confidence": 0.98
+                },
+                {
+                  "boundingBox": [ 479, 1788, 722, 1783, 722, 1830, 479, 1832 ],
+                  "text": "F/Cream1kg",
+                  "confidence": 0.934
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 877, 1780, 977, 1778, 977, 1821, 878, 1823 ],
+              "text": "5.30",
+              "words": [
+                {
+                  "boundingBox": [ 877, 1780, 974, 1778, 974, 1821, 877, 1823 ],
+                  "text": "5.30",
+                  "confidence": 0.985
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 38, 1841, 347, 1840, 348, 1883, 38, 1884 ],
+              "text": "8906117002413",
+              "words": [
+                {
+                  "boundingBox": [ 39, 1843, 346, 1840, 346, 1884, 40, 1884 ],
+                  "text": "8906117002413",
+                  "confidence": 0.972
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 453, 1839, 533, 1841, 533, 1881, 455, 1881 ],
+              "text": "2 ×",
+              "words": [
+                {
+                  "boundingBox": [ 456, 1839, 497, 1840, 496, 1881, 455, 1880 ],
+                  "text": "2",
+                  "confidence": 0.986
+                },
+                {
+                  "boundingBox": [ 505, 1840, 532, 1840, 532, 1881, 504, 1881 ],
+                  "text": "×",
+                  "confidence": 0.726
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 713, 1834, 836, 1833, 835, 1873, 713, 1876 ],
+              "text": "20.00",
+              "words": [
+                {
+                  "boundingBox": [ 713, 1834, 833, 1833, 833, 1874, 713, 1876 ],
+                  "text": "20.00",
+                  "confidence": 0.985
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 926, 1831, 978, 1831, 974, 1873, 925, 1872 ],
+              "text": "S2",
+              "words": [
+                {
+                  "boundingBox": [ 925, 1831, 975, 1831, 975, 1873, 925, 1872 ],
+                  "text": "S2",
+                  "confidence": 0.982
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 13, 1942, 675, 1936, 675, 1981, 13, 1987 ],
+              "text": "Zeeba Super Basmati Rice 5kg",
+              "words": [
+                {
+                  "boundingBox": [ 15, 1943, 142, 1943, 141, 1986, 13, 1987 ],
+                  "text": "Zeeba",
+                  "confidence": 0.971
+                },
+                {
+                  "boundingBox": [ 151, 1943, 283, 1942, 282, 1985, 149, 1986 ],
+                  "text": "Super",
+                  "confidence": 0.986
+                },
+                {
+                  "boundingBox": [ 292, 1942, 468, 1940, 467, 1984, 291, 1985 ],
+                  "text": "Basmati",
+                  "confidence": 0.983
+                },
+                {
+                  "boundingBox": [ 476, 1940, 586, 1938, 586, 1983, 476, 1984 ],
+                  "text": "Rice",
+                  "confidence": 0.987
+                },
+                {
+                  "boundingBox": [ 595, 1938, 675, 1936, 676, 1982, 595, 1983 ],
+                  "text": "5kg",
+                  "confidence": 0.987
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 859, 1934, 978, 1933, 978, 1975, 858, 1975 ],
+              "text": "40.00",
+              "words": [
+                {
+                  "boundingBox": [ 858, 1933, 975, 1933, 976, 1975, 858, 1975 ],
+                  "text": "40.00",
+                  "confidence": 0.83
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 86, 2044, 201, 2043, 201, 2085, 86, 2087 ],
+              "text": "Total",
+              "words": [
+                {
+                  "boundingBox": [ 86, 2044, 200, 2043, 201, 2086, 86, 2087 ],
+                  "text": "Total",
+                  "confidence": 0.981
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 832, 2038, 955, 2037, 956, 2076, 833, 2078 ],
+              "text": "89.65",
+              "words": [
+                {
+                  "boundingBox": [ 833, 2040, 955, 2037, 954, 2077, 834, 2078 ],
+                  "text": "89.65",
+                  "confidence": 0.985
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 86, 2096, 249, 2096, 249, 2137, 86, 2136 ],
+              "text": "Items :",
+              "words": [
+                {
+                  "boundingBox": [ 88, 2097, 215, 2098, 215, 2137, 86, 2136 ],
+                  "text": "Items",
+                  "confidence": 0.977
+                },
+                {
+                  "boundingBox": [ 228, 2098, 249, 2098, 249, 2136, 228, 2136 ],
+                  "text": ":",
+                  "confidence": 0.987
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 386, 2097, 417, 2097, 419, 2130, 388, 2130 ],
+              "text": "9",
+              "words": [
+                {
+                  "boundingBox": [ 399, 2097, 419, 2097, 419, 2130, 399, 2130 ],
+                  "text": "9",
+                  "confidence": 0.986
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 17, 2145, 365, 2143, 365, 2185, 17, 2187 ],
+              "text": "*COUPON ISSUED:",
+              "words": [
+                {
+                  "boundingBox": [ 18, 2147, 192, 2146, 192, 2187, 17, 2186 ],
+                  "text": "*COUPON",
+                  "confidence": 0.983
+                },
+                {
+                  "boundingBox": [ 203, 2145, 364, 2143, 364, 2186, 202, 2187 ],
+                  "text": "ISSUED:",
+                  "confidence": 0.929
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 530, 2142, 769, 2138, 770, 2179, 530, 2184 ],
+              "text": "AED 100.00",
+              "words": [
+                {
+                  "boundingBox": [ 531, 2143, 611, 2141, 610, 2184, 530, 2184 ],
+                  "text": "AED",
+                  "confidence": 0.987
+                },
+                {
+                  "boundingBox": [ 624, 2141, 769, 2138, 768, 2180, 623, 2183 ],
+                  "text": "100.00",
+                  "confidence": 0.925
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 43, 2194, 304, 2194, 305, 2237, 43, 2238 ],
+              "text": "IKON COUPON",
+              "words": [
+                {
+                  "boundingBox": [ 44, 2195, 142, 2196, 141, 2238, 44, 2239 ],
+                  "text": "IKON",
+                  "confidence": 0.96
+                },
+                {
+                  "boundingBox": [ 151, 2196, 303, 2196, 302, 2238, 150, 2238 ],
+                  "text": "COUPON",
+                  "confidence": 0.985
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 14, 2247, 674, 2241, 675, 2283, 14, 2291 ],
+              "text": "Serial: 022708432 **** 7041640",
+              "words": [
+                {
+                  "boundingBox": [ 15, 2248, 189, 2246, 189, 2290, 15, 2291 ],
+                  "text": "Serial:",
+                  "confidence": 0.943
+                },
+                {
+                  "boundingBox": [ 198, 2246, 404, 2244, 403, 2287, 198, 2290 ],
+                  "text": "022708432",
+                  "confidence": 0.98
+                },
+                {
+                  "boundingBox": [ 412, 2244, 501, 2243, 501, 2286, 412, 2287 ],
+                  "text": "****",
+                  "confidence": 0.983
+                },
+                {
+                  "boundingBox": [ 509, 2243, 675, 2241, 675, 2283, 509, 2286 ],
+                  "text": "7041640",
+                  "confidence": 0.983
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 15, 2299, 114, 2299, 113, 2340, 15, 2339 ],
+              "text": "Cash",
+              "words": [
+                {
+                  "boundingBox": [ 15, 2299, 113, 2299, 113, 2340, 15, 2339 ],
+                  "text": "Cash",
+                  "confidence": 0.987
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 482, 2298, 556, 2297, 555, 2335, 483, 2337 ],
+              "text": "AED",
+              "words": [
+                {
+                  "boundingBox": [ 482, 2298, 554, 2297, 555, 2335, 482, 2337 ],
+                  "text": "AED",
+                  "confidence": 0.987
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 716, 2292, 866, 2291, 866, 2333, 716, 2335 ],
+              "text": "500.00",
+              "words": [
+                {
+                  "boundingBox": [ 716, 2293, 866, 2291, 865, 2334, 716, 2335 ],
+                  "text": "500.00",
+                  "confidence": 0.957
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 9, 2345, 159, 2344, 159, 2399, 9, 2398 ],
+              "text": "Change",
+              "words": [
+                {
+                  "boundingBox": [ 9, 2344, 156, 2344, 156, 2399, 9, 2399 ],
+                  "text": "Change",
+                  "confidence": 0.952
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 249, 2350, 345, 2351, 345, 2390, 249, 2389 ],
+              "text": "Cash",
+              "words": [
+                {
+                  "boundingBox": [ 249, 2350, 343, 2351, 342, 2390, 249, 2389 ],
+                  "text": "Cash",
+                  "confidence": 0.987
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 719, 2343, 861, 2342, 861, 2385, 719, 2386 ],
+              "text": "410.35",
+              "words": [
+                {
+                  "boundingBox": [ 720, 2345, 861, 2343, 862, 2386, 719, 2386 ],
+                  "text": "410.35",
+                  "confidence": 0.983
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 178, 2446, 514, 2443, 514, 2496, 178, 2499 ],
+              "text": "Tax inclusive:",
+              "words": [
+                {
+                  "boundingBox": [ 178, 2447, 261, 2446, 261, 2499, 179, 2500 ],
+                  "text": "Tax",
+                  "confidence": 0.987
+                },
+                {
+                  "boundingBox": [ 271, 2446, 514, 2444, 513, 2497, 272, 2499 ],
+                  "text": "inclusive:",
+                  "confidence": 0.97
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 39, 2553, 510, 2549, 510, 2594, 39, 2597 ],
+              "text": "Tax# VAT% BeforeVAT",
+              "words": [
+                {
+                  "boundingBox": [ 40, 2555, 145, 2554, 146, 2596, 41, 2597 ],
+                  "text": "Tax#",
+                  "confidence": 0.981
+                },
+                {
+                  "boundingBox": [ 153, 2554, 267, 2553, 268, 2596, 154, 2596 ],
+                  "text": "VAT%",
+                  "confidence": 0.83
+                },
+                {
+                  "boundingBox": [ 292, 2553, 508, 2550, 509, 2595, 293, 2595 ],
+                  "text": "BeforeVAT",
+                  "confidence": 0.981
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 581, 2546, 773, 2544, 774, 2596, 582, 2599 ],
+              "text": "Incl.VAT",
+              "words": [
+                {
+                  "boundingBox": [ 582, 2547, 773, 2544, 773, 2598, 582, 2600 ],
+                  "text": "Incl.VAT",
+                  "confidence": 0.896
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 908, 2548, 981, 2549, 980, 2593, 908, 2591 ],
+              "text": "VAT",
+              "words": [
+                {
+                  "boundingBox": [ 908, 2548, 978, 2549, 977, 2593, 908, 2591 ],
+                  "text": "VAT",
+                  "confidence": 0.987
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 15, 2606, 66, 2605, 66, 2649, 14, 2649 ],
+              "text": "S2",
+              "words": [
+                {
+                  "boundingBox": [ 14, 2605, 63, 2605, 64, 2649, 14, 2649 ],
+                  "text": "S2",
+                  "confidence": 0.969
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 152, 2606, 183, 2607, 183, 2648, 152, 2647 ],
+              "text": "5",
+              "words": [
+                {
+                  "boundingBox": [ 152, 2606, 182, 2607, 181, 2648, 152, 2647 ],
+                  "text": "5",
+                  "confidence": 0.987
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 367, 2604, 488, 2603, 488, 2644, 367, 2645 ],
+              "text": "85.38",
+              "words": [
+                {
+                  "boundingBox": [ 367, 2604, 487, 2603, 487, 2644, 367, 2645 ],
+                  "text": "85.38",
+                  "confidence": 0.985
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 622, 2602, 746, 2602, 746, 2644, 622, 2644 ],
+              "text": "89.65",
+              "words": [
+                {
+                  "boundingBox": [ 623, 2604, 747, 2602, 746, 2645, 624, 2643 ],
+                  "text": "89.65",
+                  "confidence": 0.982
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 864, 2601, 957, 2601, 956, 2642, 862, 2641 ],
+              "text": "4.27",
+              "words": [
+                {
+                  "boundingBox": [ 862, 2601, 955, 2601, 955, 2642, 862, 2641 ],
+                  "text": "4.27",
+                  "confidence": 0.983
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 59, 2708, 769, 2703, 770, 2746, 59, 2752 ],
+              "text": "Served by: Cecile Palacio Mota",
+              "words": [
+                {
+                  "boundingBox": [ 60, 2711, 213, 2708, 212, 2752, 60, 2752 ],
+                  "text": "Served",
+                  "confidence": 0.984
+                },
+                {
+                  "boundingBox": [ 221, 2708, 308, 2706, 308, 2751, 221, 2752 ],
+                  "text": "by:",
+                  "confidence": 0.983
+                },
+                {
+                  "boundingBox": [ 317, 2706, 472, 2704, 471, 2750, 316, 2751 ],
+                  "text": "Cecile",
+                  "confidence": 0.984
+                },
+                {
+                  "boundingBox": [ 480, 2704, 661, 2703, 660, 2748, 480, 2750 ],
+                  "text": "Palacio",
+                  "confidence": 0.983
+                },
+                {
+                  "boundingBox": [ 669, 2703, 770, 2703, 769, 2747, 668, 2748 ],
+                  "text": "Mota",
+                  "confidence": 0.986
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 14, 2813, 113, 2812, 113, 2850, 15, 2850 ],
+              "text": "Date",
+              "words": [
+                {
+                  "boundingBox": [ 14, 2812, 113, 2812, 113, 2849, 14, 2850 ],
+                  "text": "Date",
+                  "confidence": 0.986
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 268, 2803, 378, 2802, 378, 2855, 268, 2856 ],
+              "text": "Time",
+              "words": [
+                {
+                  "boundingBox": [ 271, 2803, 377, 2802, 378, 2855, 272, 2856 ],
+                  "text": "Time",
+                  "confidence": 0.986
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 412, 2802, 632, 2802, 633, 2854, 412, 2855 ],
+              "text": "Store POS",
+              "words": [
+                {
+                  "boundingBox": [ 412, 2802, 539, 2802, 539, 2855, 412, 2856 ],
+                  "text": "Store",
+                  "confidence": 0.983
+                },
+                {
+                  "boundingBox": [ 550, 2802, 630, 2803, 631, 2855, 550, 2855 ],
+                  "text": "POS",
+                  "confidence": 0.98
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 767, 2806, 930, 2806, 930, 2848, 767, 2849 ],
+              "text": "Receipt",
+              "words": [
+                {
+                  "boundingBox": [ 768, 2807, 929, 2806, 928, 2848, 767, 2848 ],
+                  "text": "Receipt",
+                  "confidence": 0.984
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 24, 2859, 634, 2853, 634, 2902, 25, 2905 ],
+              "text": "11.10.2020 17:28 2270 18",
+              "words": [
+                {
+                  "boundingBox": [ 25, 2862, 267, 2860, 267, 2902, 25, 2905 ],
+                  "text": "11.10.2020",
+                  "confidence": 0.876
+                },
+                {
+                  "boundingBox": [ 278, 2860, 408, 2858, 408, 2902, 278, 2902 ],
+                  "text": "17:28",
+                  "confidence": 0.984
+                },
+                {
+                  "boundingBox": [ 436, 2858, 549, 2856, 549, 2902, 437, 2902 ],
+                  "text": "2270",
+                  "confidence": 0.983
+                },
+                {
+                  "boundingBox": [ 583, 2855, 635, 2854, 635, 2903, 583, 2903 ],
+                  "text": "18",
+                  "confidence": 0.987
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 798, 2857, 932, 2855, 933, 2897, 798, 2899 ],
+              "text": "191580",
+              "words": [
+                {
+                  "boundingBox": [ 798, 2857, 933, 2855, 933, 2898, 798, 2899 ],
+                  "text": "191580",
+                  "confidence": 0.983
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 62, 2963, 917, 2959, 918, 3004, 62, 3008 ],
+              "text": "Keep Bill for Exchange within 7 Days",
+              "words": [
+                {
+                  "boundingBox": [ 63, 2966, 165, 2965, 166, 3008, 63, 3008 ],
+                  "text": "Keep",
+                  "confidence": 0.986
+                },
+                {
+                  "boundingBox": [ 174, 2965, 288, 2963, 288, 3008, 174, 3008 ],
+                  "text": "Bill",
+                  "confidence": 0.982
+                },
+                {
+                  "boundingBox": [ 296, 2963, 379, 2962, 379, 3008, 296, 3008 ],
+                  "text": "for",
+                  "confidence": 0.98
+                },
+                {
+                  "boundingBox": [ 388, 2962, 591, 2961, 590, 3007, 388, 3008 ],
+                  "text": "Exchange",
+                  "confidence": 0.981
+                },
+                {
+                  "boundingBox": [ 599, 2961, 758, 2960, 757, 3006, 599, 3007 ],
+                  "text": "within",
+                  "confidence": 0.983
+                },
+                {
+                  "boundingBox": [ 769, 2960, 802, 2960, 801, 3005, 768, 3006 ],
+                  "text": "7",
+                  "confidence": 0.982
+                },
+                {
+                  "boundingBox": [ 810, 2960, 916, 2960, 915, 3004, 809, 3005 ],
+                  "text": "Days",
+                  "confidence": 0.985
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 64, 3015, 939, 3012, 939, 3057, 64, 3061 ],
+              "text": "valid only at issued store .* T&C Apply",
+              "words": [
+                {
+                  "boundingBox": [ 64, 3018, 190, 3016, 191, 3061, 65, 3062 ],
+                  "text": "valid",
+                  "confidence": 0.958
+                },
+                {
+                  "boundingBox": [ 199, 3016, 310, 3015, 311, 3060, 200, 3061 ],
+                  "text": "only",
+                  "confidence": 0.982
+                },
+                {
+                  "boundingBox": [ 319, 3015, 383, 3014, 384, 3060, 319, 3060 ],
+                  "text": "at",
+                  "confidence": 0.988
+                },
+                {
+                  "boundingBox": [ 392, 3014, 544, 3013, 544, 3059, 392, 3060 ],
+                  "text": "issued",
+                  "confidence": 0.983
+                },
+                {
+                  "boundingBox": [ 553, 3013, 667, 3013, 667, 3059, 553, 3059 ],
+                  "text": "store",
+                  "confidence": 0.985
+                },
+                {
+                  "boundingBox": [ 676, 3013, 714, 3013, 713, 3058, 675, 3059 ],
+                  "text": ".*",
+                  "confidence": 0.85
+                },
+                {
+                  "boundingBox": [ 723, 3013, 805, 3012, 804, 3058, 722, 3058 ],
+                  "text": "T&C",
+                  "confidence": 0.982
+                },
+                {
+                  "boundingBox": [ 814, 3012, 940, 3013, 938, 3058, 813, 3058 ],
+                  "text": "Apply",
+                  "confidence": 0.986
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 225, 3064, 750, 3064, 750, 3112, 225, 3112 ],
+              "text": "Thank you for shopping",
+              "words": [
+                {
+                  "boundingBox": [ 226, 3068, 357, 3066, 358, 3112, 226, 3110 ],
+                  "text": "Thank",
+                  "confidence": 0.986
+                },
+                {
+                  "boundingBox": [ 366, 3066, 451, 3065, 452, 3113, 366, 3112 ],
+                  "text": "you",
+                  "confidence": 0.987
+                },
+                {
+                  "boundingBox": [ 462, 3065, 544, 3065, 545, 3113, 463, 3113 ],
+                  "text": "for",
+                  "confidence": 0.987
+                },
+                {
+                  "boundingBox": [ 552, 3065, 747, 3066, 749, 3113, 553, 3113 ],
+                  "text": "shopping",
+                  "confidence": 0.984
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 38, 3119, 940, 3115, 940, 3159, 39, 3166 ],
+              "text": "Shop online at www.luluhypermarket.com",
+              "words": [
+                {
+                  "boundingBox": [ 39, 3123, 144, 3121, 144, 3166, 39, 3166 ],
+                  "text": "Shop",
+                  "confidence": 0.981
+                },
+                {
+                  "boundingBox": [ 152, 3121, 308, 3118, 309, 3164, 153, 3166 ],
+                  "text": "online",
+                  "confidence": 0.953
+                },
+                {
+                  "boundingBox": [ 317, 3118, 377, 3118, 377, 3164, 317, 3164 ],
+                  "text": "at",
+                  "confidence": 0.986
+                },
+                {
+                  "boundingBox": [ 385, 3117, 939, 3116, 939, 3161, 385, 3164 ],
+                  "text": "www.luluhypermarket.com",
+                  "confidence": 0.938
+                }
+              ]
+            },
+            {
+              "boundingBox": [ 74, 3350, 965, 3345, 965, 3390, 74, 3398 ],
+              "text": "662270018019158020201011172724",
+              "words": [
+                {
+                  "boundingBox": [ 74, 3355, 965, 3348, 965, 3391, 76, 3399 ],
+                  "text": "662270018019158020201011172724",
+                  "confidence": 0.939
+                }
+              ]
+            }
+          ],
+          "selectionMarks": [
+            {
+              "boundingBox": [ 506, 1850, 532, 1850, 532, 1879, 506, 1879 ],
+              "confidence": 0.654,
+              "state": "selected"
+            },
+            {
+              "boundingBox": [ 390, 1378, 468, 1378, 468, 1466, 390, 1466 ],
+              "confidence": 0.6,
+              "state": "unselected"
+            },
+            {
+              "boundingBox": [ 576, 1572, 654, 1572, 654, 1615, 576, 1615 ],
+              "confidence": 0.6,
+              "state": "unselected"
+            },
+            {
+              "boundingBox": [ 516, 1637, 545, 1637, 545, 1673, 516, 1673 ],
+              "confidence": 0.553,
+              "state": "unselected"
+            }
+          ]
+        }
+      ],
+      "pageResults": [
+        {
+          "page": 1,
+          "tables": [
+            {
+              "rows": 3,
+              "columns": 2,
+              "cells": [
+                {
+                  "rowIndex": 0,
+                  "columnIndex": 0,
+                  "text": "Herbs 9905519002006 1",
+                  "boundingBox": [ 12, 871, 720, 871, 720, 989, 12, 989 ],
+                  "elements": [ "#/readResults/0/lines/7/words/0", "#/readResults/0/lines/9/words/0", "#/readResults/0/lines/10/words/0" ]
+                },
+                {
+                  "rowIndex": 0,
+                  "columnIndex": 1,
+                  "text": "S2",
+                  "boundingBox": [ 720, 871, 984, 871, 984, 989, 720, 989 ],
+                  "elements": [ "#/readResults/0/lines/11/words/0" ]
+                },
+                {
+                  "rowIndex": 1,
+                  "columnIndex": 0,
+                  "text": "Herbs And Leaves 1pc",
+                  "boundingBox": [ 12, 989, 720, 989, 720, 1065, 12, 1065 ],
+                  "elements": [ "#/readResults/0/lines/12/words/0", "#/readResults/0/lines/12/words/1", "#/readResults/0/lines/12/words/2", "#/readResults/0/lines/12/words/3" ]
+                },
+                {
+                  "rowIndex": 1,
+                  "columnIndex": 1,
+                  "text": "2.00",
+                  "boundingBox": [ 720, 989, 984, 989, 984, 1065, 720, 1065 ],
+                  "elements": [ "#/readResults/0/lines/13/words/0" ]
+                },
+                {
+                  "rowIndex": 2,
+                  "columnIndex": 0,
+                  "text": "2773362005706",
+                  "boundingBox": [ 12, 1065, 720, 1065, 720, 1164, 12, 1164 ],
+                  "elements": [ "#/readResults/0/lines/14/words/0" ]
+                },
+                {
+                  "rowIndex": 2,
+                  "columnIndex": 1,
+                  "text": "S2",
+                  "boundingBox": [ 720, 1065, 984, 1065, 984, 1164, 720, 1164 ],
+                  "elements": [ "#/readResults/0/lines/15/words/0" ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "documentResults": [
+        {
+          "docType": "Receipts:Lulu",
+          "modelId": "6e6c7c35-cd81-4847-ab7f-23e7a8a0b630",
+          "pageRange": [ 1, 1 ],
+          "fields": {
+            "store": {
+              "type": "string",
+              "valueString": "2270",
+              "text": "2270",
+              "page": 1,
+              "boundingBox": [ 436.0, 2856.0, 549.0, 2856.0, 549.0, 2902.0, 436.0, 2902.0 ],
+              "confidence": 0.914,
+              "elements": [ "#/readResults/0/lines/75/words/2" ]
+            },
+            "location": {
+              "type": "string",
+              "valueString": "TEL - 04 2988880",
+              "text": "TEL - 04 2988880",
+              "page": 1,
+              "boundingBox": [ 293.0, 425.0, 677.0, 425.0, 677.0, 486.0, 293.0, 486.0 ],
+              "confidence": 0.789,
+              "elements": [ "#/readResults/0/lines/2/words/0", "#/readResults/0/lines/2/words/1", "#/readResults/0/lines/2/words/2", "#/readResults/0/lines/2/words/3" ]
+            },
+            "served": {
+              "type": "string",
+              "valueString": "Cecile Palacio Mota",
+              "text": "Cecile Palacio Mota",
+              "page": 1,
+              "boundingBox": [ 316.0, 2703.0, 770.0, 2703.0, 770.0, 2751.0, 316.0, 2751.0 ],
+              "confidence": 0.932,
+              "elements": [ "#/readResults/0/lines/70/words/2", "#/readResults/0/lines/70/words/3", "#/readResults/0/lines/70/words/4" ]
+            },
+            "total": {
+              "type": "string",
+              "valueString": "89.65",
+              "text": "89.65",
+              "page": 1,
+              "boundingBox": [ 833.0, 2037.0, 955.0, 2037.0, 955.0, 2078.0, 833.0, 2078.0 ],
+              "confidence": 0.695,
+              "elements": [ "#/readResults/0/lines/48/words/0" ]
+            },
+            "vat": {
+              "type": "string",
+              "valueString": "4.27",
+              "text": "4.27",
+              "page": 1,
+              "boundingBox": [ 862.0, 2601.0, 955.0, 2601.0, 955.0, 2642.0, 862.0, 2642.0 ],
+              "confidence": 0.862,
+              "elements": [ "#/readResults/0/lines/69/words/0" ]
+            },
+            "merchant": {
+              "type": "string",
+              "valueString": "LuluHypermarketLLC,",
+              "text": "Lulu Hypermarket LLC,",
+              "page": 1,
+              "boundingBox": [ 57.0, 379.0, 564.0, 379.0, 564.0, 452.0, 57.0, 452.0 ],
+              "confidence": 0.791,
+              "elements": [ "#/readResults/0/lines/1/words/0", "#/readResults/0/lines/1/words/1", "#/readResults/0/lines/1/words/2" ]
+            },
+            "time": {
+              "type": "string",
+              "valueString": "17:28",
+              "text": "17:28",
+              "page": 1,
+              "boundingBox": [ 278.0, 2858.0, 408.0, 2858.0, 408.0, 2902.0, 278.0, 2902.0 ],
+              "confidence": 0.901,
+              "elements": [ "#/readResults/0/lines/75/words/1" ]
+            },
+            "date": {
+              "type": "string",
+              "valueString": "11.10.2020",
+              "text": "11.10.2020",
+              "page": 1,
+              "boundingBox": [ 25.0, 2860.0, 267.0, 2860.0, 267.0, 2905.0, 25.0, 2905.0 ],
+              "confidence": 0.887,
+              "elements": [ "#/readResults/0/lines/75/words/0" ]
+            }
+          },
+          "docTypeConfidence": 0.605
+        }
+      ],
+      "errors": []
+    }
+  }
+}

@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AddRazorSupportForMvc>true</AddRazorSupportForMvc>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.AI.FormRecognizer" Version="3.1.0-beta.1" />
+    <PackageReference Include="Dapper" Version="2.0.78" />
+    <PackageReference Include="Dapper.Contrib" Version="2.0.78" />
+    <PackageReference Include="OrchardCore.Admin" Version="1.0.0-rc2-13450" />
+    <PackageReference Include="OrchardCore.Media.Azure" Version="1.0.0-rc2-13450" />
+    <PackageReference Include="OrchardCore.Module.Targets" Version="1.0.0-rc2-13450" />
+    <PackageReference Include="OrchardCore.ContentManagement" Version="1.0.0-rc2-13450" />
+    <PackageReference Include="OrchardCore.ContentTypes.Abstractions" Version="1.0.0-rc2-13450" />
+    <PackageReference Include="OrchardCore.DisplayManagement" Version="1.0.0-rc2-13450" />
+    <PackageReference Include="OrchardCore.ResourceManagement" Version="1.0.0-rc2-13450" />
+  </ItemGroup>
+
+  <Target Name="DapperAlias" BeforeTargets="FindReferenceAssembliesForReferences;ResolveReferences">
+    <ItemGroup>
+      <ReferencePath Condition="'%(FileName)' == 'Dapper'">
+        <Aliases>MP_DapperAlias</Aliases>
+      </ReferencePath>
+    </ItemGroup>
+  </Target>
+
+  
+</Project>
